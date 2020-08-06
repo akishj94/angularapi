@@ -21,7 +21,10 @@
       "zip":141009
     }
   ],
-  "profile": {
-    "name": "akish"
-  }
+  "hospitals": [
+    {
+      "zip": 141008,
+      "name": "Christian Medical College & Hospital"
+    }
+  ]
 }
