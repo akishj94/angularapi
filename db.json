@@ -1,34 +1,11 @@
 {
-  "zipcodes":[
+  "posts": [
     {
       "id": 1,
-      "zip":141001
-    },
-    {
-      "id": 2,
-      "zip":141005
-    },
-    {
-      "id": 3,
-      "zip":141012
-    },
-    {
-      "id": 4,
-      "zip":141008
-    },
-    {
-      "id": 5,
-      "zip":141009
-    },
+      "title": "hello"
+    }
   ],
-  "hospitals":[
-    {
-      "zip": 141008,
-      "name": "Christian Medical College & Hospital"
-    },
-    {
-      "zip": 141001,
-      "name": "Dayanand Medical College & Hospital"
-    },
-  ]
+  "profile": {
+    "name": "typicode"
+  }
 }
