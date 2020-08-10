@@ -1,35 +1,29 @@
-{
-  "zipcodes":[
+{  
+  "141001": [
     {
-      "id": 1,
-      "zip":141001
+      "name": "Department of Microbiology, Dayanand Medical College & Hospital, Tagore Nagar, Civil Lines, Ludhiana",
+      "type": "Private",
+      "test": "CB-NAAT"
+    },
+   ],
+  "141008": [
+    {
+      "name": "District Hospital, Ludhiana, Punjab"
+      "type": "Public",
+      "test": "TrueNat"
     },
     {
-      "id": 2,
-      "zip":141005
-    },
-    {
-      "id": 3,
-      "zip":141012
-    },
-    {
-      "id": 4,
-      "zip":141008
-    },
-    {
-      "id": 5,
-      "zip":141009
+      "name": "Christian Medical College, Ludhiana",
+      "type": "Private",
+      "test": "RT-PCR"
     }
-  ],
-  "hospitals": [
+  ],  
+  "147001": [
     {
-      "zip": 141001,
-      "name": "Dayanad Medical College & Hospital"
-    },
-    {
-      "zip": 141008,
-      "name": "Christian Medical College & Hospital"
+      "name": "Intermediate Reference Laboratory, Patiala",
+      "type": "Public",
+      "test": "CB-NAAT"
     }
-   ]
+  ]
 }
    
